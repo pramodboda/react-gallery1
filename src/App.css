@@ -7,6 +7,11 @@
   pointer-events: none;
 }
 
+.page-title{
+  font-family: 'Potta One', cursive;
+  font-size: 72px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
