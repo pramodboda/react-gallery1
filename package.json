@@ -2,7 +2,7 @@
   "name": "react-gallery1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https//pramodboda.github.io/react-gallery1/",
+  "homepage": "https://pramodboda.github.io/react-gallery1/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
